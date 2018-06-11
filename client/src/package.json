@@ -1,5 +1,5 @@
 {
-  "name": "sngular-devs-abimael-hernandez-07-06-2018",
+  "name": "singular-devs-Juan-Tejeda-10-06-2018",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abimaelhernandez/SNGULAR-DEVS-abimael-hernandez-07-06-2018.git"
+    "url": "git+https://github.com/JuanTejeda/SINGULAR-DEVS-Juan-Tejeda-10-06-2018.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/abimaelhernandez/SNGULAR-DEVS-abimael-hernandez-07-06-2018/issues"
+    "url": "https://github.com/JuanTejeda/SINGULAR-DEVS-Juan-Tejeda-10-06-2018/issues"
   },
-  "homepage": "https://github.com/abimaelhernandez/SNGULAR-DEVS-abimael-hernandez-07-06-2018#readme",
+  "homepage": "https://github.com/JuanTejeda/SINGULAR-DEVS-Juan-Tejeda-10-06-2018#readme",
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.4",
