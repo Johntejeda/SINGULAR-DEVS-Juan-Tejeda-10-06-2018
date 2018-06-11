@@ -1,0 +1,36 @@
+{
+  "name": "sngular-devs-abimael-hernandez-07-06-2018",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --config webpack.config.js --watch --mode development",
+    "start-dev": "nodemon server/index.js",
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abimaelhernandez/SNGULAR-DEVS-abimael-hernandez-07-06-2018.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abimaelhernandez/SNGULAR-DEVS-abimael-hernandez-07-06-2018/issues"
+  },
+  "homepage": "https://github.com/abimaelhernandez/SNGULAR-DEVS-abimael-hernandez-07-06-2018#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "webpack": "^4.11.1",
+    "webpack-cli": "^2.1.4"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "react": "^16.4.0",
+    "react-dom": "^16.3.2"
+  }
+}
